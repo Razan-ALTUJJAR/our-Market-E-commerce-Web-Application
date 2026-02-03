@@ -1,8 +1,3 @@
----
-title: "Your-Market – E-commerce Web Application"
-output: html_document
----
-
 # Your-Market
 
 [Voir le site en ligne](https://your-market.netlify.app/)
